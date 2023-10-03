@@ -25,3 +25,7 @@ git push
 comando se aparecer erro ao atualizar o repositorio:
 
 git pull
+
+comando para clonar um repositorio:
+
+git clone "link do repositorio"
