@@ -21,3 +21,7 @@ git status
 git add .
 git commit -m "nome do commit"
 git push
+
+comando se aparecer erro ao atualizar o repositorio:
+
+git pull
